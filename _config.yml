@@ -40,7 +40,10 @@ plugins:
 
 remote_theme: vszhub/not-pure-poole
 
-
+author:
+  name: Aswin P Vijayan
+  url: https://github.com/aswinpvijayan/
+  email: aswinpvijayan@gmail.com
 
 
 # Exclude from processing.
