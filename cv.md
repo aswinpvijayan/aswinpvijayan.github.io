@@ -35,5 +35,20 @@ Detailed dust modelling in the <span style="font-variant: small-caps;">L-Galaxie
 
 You can also find a list of my publications [here](https://ui.adsabs.harvard.edu/public-libraries/nx11cjS2ROuxirheKfVAYw)
 
+<h2>Teaching & Other Work Experience</h2>
+
+Oct 2021 >> SOC, [Models and Simulations of High-Redshift Galaxies](http://sazerac-conference.org/SIPS2122/1.html) - Sazerac Sip.
+
+Feb 2021 >> SOC, [CIDER: The Cold ISM During the Epoch of Reionisation](http://sazerac-conference.org/SIPS2021/4.html) - Sazerac Sip.
+
+Mar-Nov 2020 >> Work Placement, with Kenya Red Cross Society, Kenya.
+
+Oct-Apr 2019/20 >> Co-supervision of Hamish Garnett, Mphys student, University of Sussex.
+
+Oct-Apr 2020/21 >> Co-supervision of Hamish Garnett, Mphys student, University of Sussex.
+
+2018-2020 >> Associate Tutor, MPS, University of Sussex.
+
+<br>
 You can also find a pdf version of my [CV](/images/cv.pdf)
 
