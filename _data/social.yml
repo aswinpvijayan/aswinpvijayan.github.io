@@ -1,6 +1,6 @@
-- title: Email
-  url: mailto://apavi@space.dtu.dk
-  icon: fas fa-envelope
+#- title: Email
+#  url: mailto://apavi@space.dtu.dk
+#  icon: fas fa-envelope
 - title: Orcid
   url: https://orcid.org/0000-0002-1905-4194
   icon: ai ai-orcid
