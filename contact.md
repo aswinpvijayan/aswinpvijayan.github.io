@@ -6,7 +6,7 @@ title: Contact Form
 Please fill the following form with your message to contact me 
 
 {::nomarkdown}
-<form action="https://formspree.io/f/mdoyqgav method="POST">
+<form action="https://formspree.io/f/mdoyqgav" method="POST">
   <fieldset class="field">
         <input class="input" type="text" name="name" placeholder="Name" required>
         <label class="label" for="name"><span class="label-content">Your name</span></label>
