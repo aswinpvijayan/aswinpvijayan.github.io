@@ -3,6 +3,8 @@ layout: page
 title: Research
 ---
 
+Below you will find some of the research that I have been involved with. If you are interested, feel free to [get in touch](../contact)
+
 <h2>First Light And Reionisation Simulations (<span style="font-variant: small-caps;">Flares</span>)</h2>
 The <span style="font-variant: small-caps;">Flare</span> simulations are a suite of high-resolution hydrodynamic simulations of galaxy formation and evolution using the <span style="font-variant: small-caps;">Eagle</span> physics. The suite consists 40 zoom resimulations of spherical regions selected at z=5 from a 3.2 cGpc a side, parent dark matter-only box. We select a range of overdensities in order to study the environmental effect on high-redshift galaxy evolution. We also combine these resimulations in order to produce composite distribution functions, signficantly extending the dynamic range of the model over smaller volume, periodic simulations. The introductory papers can be found at [Lovell et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.500.2127L/abstract) and [Vijayan et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.501.3289V/abstract).  
 

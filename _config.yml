@@ -37,6 +37,7 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
   - jekyll-paginate
+  - jekyll-sitemap
 
 remote_theme: vszhub/not-pure-poole
 
