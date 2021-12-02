@@ -23,7 +23,7 @@ email: apavi@space.dtu.dk
 description: >- # this means to ignore newlines until "baseurl:"
   DAWN Fellow @ Cosmic Dawn Center at DTU 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://aswinpvijayan.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: aswinpvijayan
 github_username:  aswinpvijayan
 avatar: /images/me.jpeg
