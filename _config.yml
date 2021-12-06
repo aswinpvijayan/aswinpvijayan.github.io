@@ -23,11 +23,11 @@ email: apavi@space.dtu.dk
 description: >- # this means to ignore newlines until "baseurl:"
   DAWN Fellow @ Cosmic Dawn Center at DTU 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://aswinpvijayan.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://aswinpvijayan.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: aswinpvijayan
 github_username:  aswinpvijayan
 avatar: /images/me.jpeg
-paginate: 5
+#paginate: 1
 permalink: pretty
 cover_image: /images/bgrd.png
 
@@ -36,7 +36,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
-  - jekyll-paginate
+  #- jekyll-paginate
   - jekyll-sitemap
 
 remote_theme: vszhub/not-pure-poole
