@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Aswin P Vijayan
+title: Dr Aswin P Vijayan
 email: apavi@space.dtu.dk
 description: >- # this means to ignore newlines until "baseurl:"
   DAWN Fellow @ Cosmic Dawn Center at DTU 
