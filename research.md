@@ -22,7 +22,7 @@ The <span style="font-variant: small-caps;">Flare</span> simulations are a suite
 <font size="-0.5">Combined cumulative galaxy number counts of <span style="font-variant: small-caps;">Flares</span> compared to the <span style="font-variant: small-caps;">Eagle</span> Reference simulation volume. <span style="font-variant: small-caps;">Flares</span> has more than ~20 times galaxies with stellar mass greater than 10<sup>10</sup> M<sub>&odot;.</sub></font>
 </p>
 
-The increased dynamic range probed by <span style="font-variant: small-caps;">Flares</span> allows us to make predictions for a number of large area surveys that will probe the EoR in coming years, such as Euclid and Nancy Grace Roman Space Telescope as well as JWST.  As can be seen from the cumulative galaxy mass function plot above, the mass range has been significantly extended compared to the <span style="font-variant: small-caps;">Eagle</span> reference volume. Also <span style="font-variant: small-caps;">Flares</span> has access to a much larger sample of galaxies, thus providing a useful statistical sample of galaxies accessible to upcoming facilities. 
+The increased dynamic range probed by <span style="font-variant: small-caps;">Flares</span> allows us to make predictions for a number of large area surveys that will probe the EoR in coming years, such as Euclid and Nancy Grace Roman Space Telescope as well as JWST.  As can be seen from the cumulative galaxy mass function plot above, the mass range has been significantly extended compared to the <span style="font-variant: small-caps;">Eagle</span> reference volume. Also <span style="font-variant: small-caps;">Flares</span> has access to a much larger sample of galaxies, thus providing a useful statistical sample of galaxies accessible to upcoming facilities.
 
 <p align = "center">
 <img src = "/images/gsmf_multi_both.png">
@@ -47,8 +47,23 @@ We use a line-of-sight (LOS) dust extinction model to model the photometric prop
 
 We find no environmental dependence on the shape of the UV luminosity function. Another interesting observation is that the obscured star formation density (SFRD) is almost equal to the unobscured SFRD by z~6 and starts to dominates below.
 
+<h3><span style="font-variant: small-caps;">Flares</span>-<span style="font-variant: small-caps;">skirt</span> modelling</h3>
+We modelled the full SED of the galaxy in post-processing using the radiative transfer code [<span style="font-variant: small-caps;">skirt</span>](https://skirt.ugent.be/) in [Vijayan et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022MNRAS.511.4999V/abstract). The modelling assumptions builds upon previous <span style="font-variant: small-caps;">Eagle</span>-<span style="font-variant: small-caps;">skirt</span> work done in [Camps et al. (2016)](https://ui.adsabs.harvard.edu/abs/2016MNRAS.462.1057C/abstract) and [Trayford et al. (2017)](https://ui.adsabs.harvard.edu/abs/2017MNRAS.470..771T/abstract). We look at the infrared luminosity function, the infrared excess (IRX) and the light-weighted dust temperatures of the most massive galaxies in <span style="font-variant: small-caps;">Flares</span> in the redshift range 5-10.
+
+We find that the IR LF is underpredicted at bright IR luminosities compared to current observational results. We see that the <span style="font-variant: small-caps;">Flares</span> IRX-&beta; relation mainly follows the local starburst relation. We also see an evolution of the light-weighted dust temperatures towards higher values with increasing redshift.
+
+<p align = "center">
+<img src = "/images/IRX_beta_sSFR.png">
+<font size="-0.5">The IRX-&beta; relation of <span style="font-variant: small-caps;">Flares</span> galaxies at z=5-10 coloured by their specific star formation rate. Also shown is some observational and theoretical data at these redshifts.</font>
+</p>
+
+<p align = "center">
+<img src = "/images/Tdust_z_variation.png" width="50%">
+<font size="-0.5">The redshift evolution of the light-weighted dust temperatures of the <span style="font-variant: small-caps;">Flares</span> galaxies at z=5-10. T<sub>peak</sub> is the wavelength at which the IR flux density peaks, T<sub>SED</sub> is the dust temperature obtained from fitting a mid-IR powerlaw + modified MBB to the IR SED while T<sub>SED,RJ</sub> is the temperature from an optically-thin MBB. Also shown is some observational and theoretical data at these redshifts.</font>
+</p>
+
 <h2>Dust Modelling in L-Galaxies Semi-Analytical Model</h2>
-L-Galaxies is a semi-analytical model (SAM), implemented on the Millennium ([Springel et al. 2005](https://ui.adsabs.harvard.edu/abs/2005Natur.435..629S/abstract)) and Millennium-II ([Boylan-Kolchin et al. 2009](https://ui.adsabs.harvard.edu/abs/2009MNRAS.398.1150B/abstract)) simulation merger trees. The model has been developed over the years to include the relevant processes required for galaxy evolution. The model has been really successful in matching many of the observational results like the galaxy stellar mass function across redshifts (Henriques et al., [2015](https://ui.adsabs.harvard.edu/abs/2015MNRAS.451.2663H/abstract), [2020](https://ui.adsabs.harvard.edu/abs/2020MNRAS.491.5795H/abstract)), the high redshift ( z ≥ 4 ) UV luminosity function (Clay et al., 2015). A self-consistent model of dust formation and evolution has been incorporated in the L-Galaxies' SAM, which is built on top of the  [Henriques et al., 2015](https://ui.adsabs.harvard.edu/abs/2015MNRAS.451.2663H/abstract) model. 
+L-Galaxies is a semi-analytical model (SAM), implemented on the Millennium ([Springel et al. 2005](https://ui.adsabs.harvard.edu/abs/2005Natur.435..629S/abstract)) and Millennium-II ([Boylan-Kolchin et al. 2009](https://ui.adsabs.harvard.edu/abs/2009MNRAS.398.1150B/abstract)) simulation merger trees. The model has been developed over the years to include the relevant processes required for galaxy evolution. The model has been really successful in matching many of the observational results like the galaxy stellar mass function across redshifts (Henriques et al., [2015](https://ui.adsabs.harvard.edu/abs/2015MNRAS.451.2663H/abstract), [2020](https://ui.adsabs.harvard.edu/abs/2020MNRAS.491.5795H/abstract)), the high redshift ( z ≥ 4 ) UV luminosity function (Clay et al., 2015). A self-consistent model of dust formation and evolution has been incorporated in the L-Galaxies' SAM, which is built on top of the  [Henriques et al., 2015](https://ui.adsabs.harvard.edu/abs/2015MNRAS.451.2663H/abstract) model.
 
 <p align = "center">
 <img src = "/images/DTM_met_MR_MRII_full.png">
