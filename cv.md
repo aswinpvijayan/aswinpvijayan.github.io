@@ -11,8 +11,11 @@ September 2017 - September 2021 &nbsp;&nbsp;&nbsp;&nbsp;>>&nbsp;&nbsp;&nbsp;&nbs
 September 2015 - July 2017 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;>>&nbsp;&nbsp;&nbsp;&nbsp; MSc. Research in Astronomy and Cosmology, Universiteit Leiden, The Netherlands  
 October 2010 - July 2014 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;>>&nbsp;&nbsp;&nbsp;&nbsp; Bachelor of Technology (B.Tech) in Engineering Physics, National Institute of Technology Calicut (NITC), Kerala, India
 
-<h2>First & Second Author Publications</h2>
+<h2>Selected Publications</h2>
 <ol reversed>
+<li> First Light And Reionisation Epoch Simulations (<span style="font-variant: small-caps;">Flares</span>) IV: The size evolution of galaxies at  z&geq;5 <br>
+<i>William J. Roper, Christopher C. Lovell, <b>Aswin P. Vijayan</b>, Madeline A. Marshall, Dimitrios Irodotou, Jussi K. Kuusisto, Peter A. Thomas, Stephen M. Wilkins, <b>2022</b></i>, <a href="https://ui.adsabs.harvard.edu/abs/2022arXiv220312627R/abstract">arXiv:2203.12627</a>
+</li>
 <li> First Light And Reionisation Epoch Simulations (<span style="font-variant: small-caps;">Flares</span>) III: The properties of massive dusty galaxies at cosmic dawn <br>
 <i><b>Aswin P. Vijayan</b>, Stephen M. Wilkins, Christopher C. Lovell, Peter A. Thomas, Peter Camps, Maarten Baes, James Trayford, Jussi Kuusisto, William J. Roper, <b>2021</b></i>, <a href="https://ui.adsabs.harvard.edu/abs/2021arXiv210800830V/abstract">arXiv:2108.00830</a>
 </li>
