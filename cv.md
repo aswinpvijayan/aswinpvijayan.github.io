@@ -13,6 +13,9 @@ October 2010 - July 2014 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 
 <h2>Selected Publications</h2>
 <ol reversed>
+<li> First Light And Reionisation Epoch Simulations (<span style="font-variant: small-caps;">Flares</span>) V: The redshift frontier <br>
+<i>Stephen M. Wilkins, <b>Aswin P. Vijayan</b>, Christopher C. Lovell, William J. Roper, Dimitrios Irodotou, Joseph Caruana, Louise T. C. Seeyave, Jussi K. Kuusisto, Peter A. Thomas, Shedeur A. K. Parris, <b>2022</b></i>, <a href="https://ui.adsabs.harvard.edu/abs/2022arXiv220409431W/abstract">arXiv:2204.09431</a>
+</li>
 <li> First Light And Reionisation Epoch Simulations (<span style="font-variant: small-caps;">Flares</span>) IV: The size evolution of galaxies at  z&geq;5 <br>
 <i>William J. Roper, Christopher C. Lovell, <b>Aswin P. Vijayan</b>, Madeline A. Marshall, Dimitrios Irodotou, Jussi K. Kuusisto, Peter A. Thomas, Stephen M. Wilkins, <b>2022</b></i>, <a href="https://ui.adsabs.harvard.edu/abs/2022arXiv220312627R/abstract">arXiv:2203.12627</a>
 </li>
@@ -34,6 +37,8 @@ Detailed dust modelling in the <span style="font-variant: small-caps;">L-Galaxie
 You can find a full list of my publications [here](https://ui.adsabs.harvard.edu/public-libraries/nx11cjS2ROuxirheKfVAYw)
 
 <h2>Teaching & Other Work Experience</h2>
+
+Feb - June 2022 >> Co-supervision of S&oslash;ren Staal, BSc student, DTU-Space
 
 Oct 2021 >> SOC, [Models and Simulations of High-Redshift Galaxies](http://sazerac-conference.org/SIPS2122/1.html) - Sazerac Sip.
 
