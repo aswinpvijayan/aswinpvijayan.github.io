@@ -13,6 +13,12 @@ October 2010 - July 2014 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 
 <h2>Selected Publications</h2>
 <ol reversed>
+<li> First Light And Reionisation Epoch Simulations (<span style="font-variant: small-caps;">Flares</span>) XII: The consequences of star-dust geometry on galaxies in the EoR <br>
+<i><b>Aswin P. Vijayan</b>, Peter A. Thomas, Christopher C. Lovell, Stephen M. Wilkins, Thomas R. Greve, Dimitrios Irodotou, William J. Roper, Louise T. C. Seeyave, <b>2023</b></i>, <a href="https://ui.adsabs.harvard.edu/abs/2023arXiv230304177V/abstract">arXiv:2303.04177</a>
+</li>
+<li> Sub-Millimetre Galaxies with Webb: Near-Infrared Counterparts and Multi-wavelength Morphology <br>
+<i>S. Gillman, B. Gullberg, G. Brammer, <b>A. Vijayan</b>, M. Lee, D. Blánquez, M. Brinch, T. Greve, I. Jermann, S. Jin, V. Kokorev, L. Liu, G. Magdis, F. Rizzo, F. Valentino, <b>2023</b></i>, <a href="https://ui.adsabs.harvard.edu/abs/2023arXiv230317246G/abstract">arXiv:2303.17246</a>
+</li>
 <li> First Light And Reionisation Epoch Simulations (<span style="font-variant: small-caps;">Flares</span>) V: The redshift frontier <br>
 <i>Stephen M. Wilkins, <b>Aswin P. Vijayan</b>, Christopher C. Lovell, William J. Roper, Dimitrios Irodotou, Joseph Caruana, Louise T. C. Seeyave, Jussi K. Kuusisto, Peter A. Thomas, Shedeur A. K. Parris, <b>2022</b></i>, <a href="https://ui.adsabs.harvard.edu/abs/2022arXiv220409431W/abstract">arXiv:2204.09431</a>
 </li>
@@ -53,4 +59,4 @@ Oct-Apr 2020/21 >> Co-supervision of Hamish Garnett, Mphys student, University o
 2018-2020 >> Associate Tutor, MPS, University of Sussex.
 
 <br>
-You can also find a pdf version of my [CV](/images/cv.pdf)
+You can also find a detailed pdf version of my [CV](/images/cv.pdf)
