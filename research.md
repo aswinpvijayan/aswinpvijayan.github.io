@@ -3,6 +3,8 @@ layout: page
 title: Research
 ---
 
+I am interested in working at the interface of theoretical modelling and observations, seeking to refine our understanding through an apples-to-apples comparison by forward modeling simulations.
+
 Below you will find some of the research that I have been involved with. If you are interested, feel free to [get in touch](../contact)
 
 <!-- <h2>First Light And Reionisation Simulations (<span style="font-variant: small-caps;">Flares</span>)</h2> -->
