@@ -32,11 +32,11 @@ permalink: pretty
 cover_image: /images/bgrd.png
 
 # Build settings
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
-  #- jekyll-paginate
+  - jekyll-paginate
   - jekyll-sitemap
 
 remote_theme: vszhub/not-pure-poole
