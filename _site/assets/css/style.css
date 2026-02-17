@@ -1,0 +1,6 @@
+@import "vszhub/not-pure-poole";
+
+/* This hides the "Dates" and "Tags" links on the landing page */
+.index-nav {
+    display: none !important;
+}
