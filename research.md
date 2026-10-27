@@ -7,6 +7,18 @@ I am interested in working at the interface of theoretical modelling and observa
 
 Below you will find some of the research that I have been involved with. If you are interested, feel free to [get in touch](../contact)
 
+<details>
+<summary><b><u><font size="+3"><span style="font-variant: small-caps;">Synthesizer</span></font></u></b></summary>
+<a href="https://synthesizer-project.github.io/"><span style="font-variant: small-caps;">Synthesizer</span></a> is an open-source Python package for forward modelling synthetic astronomical observables, of which I am one of the co-PIs. It is designed to be fast, modular and flexible, allowing the user to generate spectra, photometry, images and spectral data cubes from both parametric models of galaxies and the outputs of cosmological hydrodynamical simulations and semi-analytic models. <span style="font-variant: small-caps;">Synthesizer</span> works with pre-computed grids of stellar population synthesis and AGN models, which can be post-processed with photoionisation codes such as <span style="font-variant: small-caps;">Cloudy</span> to include nebular line and continuum emission, and combined with models for dust attenuation and emission. This makes it easy to explore how different modelling choices change predicted observables, enabling like-for-like comparisons between theory and observations. The code is available on <a href="https://github.com/synthesizer-project/synthesizer">GitHub</a>, and the introductory paper can be found at <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250803888L/abstract">Lovell, Roper, Vijayan, Wilkins et al. (2025)</a> and the JOSS paper at <a href="https://joss.theoj.org/papers/10.21105/joss.09436">Roper, Lovell, Vijayan, Wilkins et al. (2026)</a>, with the stellar photoionisation modelling described in <a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260727467V/abstract">Vijayan et al. (2026)</a>.
+
+<p align = "center">
+<a href="/images/synthesizer_parametric.pdf"><img src = "/images/synthesizer_parametric.png"></a>
+</p>
+<p align = "center">
+<font size="-0.5">Spectra of a parametric stellar population generated with <span style="font-variant: small-caps;">Synthesizer</span>. The bottom panel shows the different spectral components (incident, nebular continuum, transmitted, escaped and intrinsic), while the top panel shows the equivalent widths of prominent emission lines, coloured by element.</font>
+</p>
+</details>
+
 <!-- <h2>First Light And Reionisation Simulations (<span style="font-variant: small-caps;">Flares</span>)</h2> -->
 <details>
 <summary><b><u><font size="+3">First Light And Reionisation Simulations (<span style="font-variant: small-caps;">Flares</span>)</font></u></b></summary>

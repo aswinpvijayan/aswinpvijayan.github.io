@@ -15,6 +15,18 @@ October 2010 - July 2014 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 
 <h2>Selected Publications</h2>
 <ol reversed>
+<li> Stellar photoionisation modelling in <span style="font-variant: small-caps;">Synthesizer</span> <br>
+<i><b>Aswin P. Vijayan</b>, Stephen M. Wilkins, Sophie L. Newman, Christopher C. Lovell, William J. Roper, Sabrina Berger, Thomas Harvey, Jack C. Turner, <b>2026</b></i>, <a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260727467V/abstract">arXiv:2607.27467</a>
+</li>
+<li> The evolution of galaxy dust scaling relations in the <span style="font-variant: small-caps;">Colibre</span> simulations <br>
+<i><b>Aswin P. Vijayan</b>, James W. Trayford, Joop Schaye, Sylvia Ploeckinger, Andrea Gebek, Nick Andreadis, Maarten Baes, Alejandro Benítez-Llambay, Evgenii Chaikin, Carlos S. Frenk, Filip Huško, Robert J. McGibbon, Alexander J. Richings, Matthieu Schaller, <b>2026</b></i>, <a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260726058V/abstract">arXiv:2607.26058</a>
+</li>
+<li> First Light And Reionisation Epoch Simulations (<span style="font-variant: small-caps;">Flares</span>) XXII: UV-dust spatial offsets at the Epoch of Reionisation <br>
+<i>Paurush Punyasheel, <b>Aswin P. Vijayan</b>, William J. Roper, Thomas R. Greve, Hiddo Algera, Christopher C. Lovell, Steven Gillman, Bitten Gullberg, Shihong Liao, Robert M. Yates, Stephen M. Wilkins, <b>2026</b></i>, <a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260527370P/abstract">arXiv:2605.27370</a>
+</li>
+<li> Synthesizer: Synthetic Observables for Modern Astronomy <br>
+<i>Will Roper, Christopher Lovell, <b>Aswin Vijayan</b>, Stephen Wilkins, Hollis Akins, Sabrina Berger, Connor Sant Fournier, Thomas Harvey, Kartheik Iyer, Marco Leonardi, Sophie Newman, Borja Pautasso, Ashley Perry, Louise Seeyave, Laura Sommovigo, Paurush Punyasheel, Adrien Aufan Stoffels d'Hautefort, Alex Rawlings, <b>2026</b></i>, <a href="https://ui.adsabs.harvard.edu/abs/2026JOSS...11.9436R/abstract">arXiv:2506.15811</a>
+</li>
 <li> Synthesizer: a Software Package for Synthetic Astronomical Observables<br />
 <i>Christopher C. Lovell<sup>*</sup>, William J. Roper<sup>*</sup>, <b>Aswin P. Vijayan</b><sup>*</sup>, Stephen M. Wilkins<sup>*</sup> (* indicates equal author contribution), Sophie Newman, Louise Seeyave <b>2025</b></i>, <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250803888L/abstract">arXiv:2508.03888</a>
 </li>
