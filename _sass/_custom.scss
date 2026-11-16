@@ -1,0 +1,57 @@
+// Custom site styles
+//
+// Imported at the end of _alignment.scss, the last theme partial loaded
+// before the syntax-highlighting styles.
+
+// Small-caps names (e.g. Synthesizer, FLARES, EAGLE)
+.sc {
+  font-variant: small-caps;
+}
+
+// Figures with captions
+.figure {
+  margin: 0 0 var(--spacer);
+  text-align: center;
+
+  img {
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 0.5rem;
+  }
+
+  figcaption {
+    font-size: 0.9em;
+  }
+
+  &.narrow img {
+    width: 50%;
+  }
+
+  &.wide img {
+    width: 75%;
+  }
+}
+
+// Collapsible section headings on the research page
+summary.summary-main {
+  font-size: xx-large;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+summary.summary-sub {
+  font-size: x-large;
+  font-weight: bold;
+}
+
+// Centred display equations
+.equation {
+  text-align: center;
+}
+
+// Hide the theme's Dates/Tags navigation on the landing page
+.index-nav,
+.nav-item-archive,
+#index-nav {
+  display: none !important;
+}

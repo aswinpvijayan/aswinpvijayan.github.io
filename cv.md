@@ -15,13 +15,13 @@ October 2010 - July 2014 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 
 <h2>Selected Publications</h2>
 <ol reversed>
-<li> Stellar photoionisation modelling in <span style="font-variant: small-caps;">Synthesizer</span> <br>
+<li> Stellar photoionisation modelling in <span class="sc">Synthesizer</span> <br>
 <i><b>Aswin P. Vijayan</b>, Stephen M. Wilkins, Sophie L. Newman, Christopher C. Lovell, William J. Roper, Sabrina Berger, Thomas Harvey, Jack C. Turner, <b>2026</b></i>, <a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260727467V/abstract">arXiv:2607.27467</a>
 </li>
-<li> The evolution of galaxy dust scaling relations in the <span style="font-variant: small-caps;">Colibre</span> simulations <br>
+<li> The evolution of galaxy dust scaling relations in the <span class="sc">Colibre</span> simulations <br>
 <i><b>Aswin P. Vijayan</b>, James W. Trayford, Joop Schaye, Sylvia Ploeckinger, Andrea Gebek, Nick Andreadis, Maarten Baes, Alejandro Benítez-Llambay, Evgenii Chaikin, Carlos S. Frenk, Filip Huško, Robert J. McGibbon, Alexander J. Richings, Matthieu Schaller, <b>2026</b></i>, <a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260726058V/abstract">arXiv:2607.26058</a>
 </li>
-<li> First Light And Reionisation Epoch Simulations (<span style="font-variant: small-caps;">Flares</span>) XXII: UV-dust spatial offsets at the Epoch of Reionisation <br>
+<li> First Light And Reionisation Epoch Simulations (<span class="sc">Flares</span>) XXII: UV-dust spatial offsets at the Epoch of Reionisation <br>
 <i>Paurush Punyasheel, <b>Aswin P. Vijayan</b>, William J. Roper, Thomas R. Greve, Hiddo Algera, Christopher C. Lovell, Steven Gillman, Bitten Gullberg, Shihong Liao, Robert M. Yates, Stephen M. Wilkins, <b>2026</b></i>, <a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260527370P/abstract">arXiv:2605.27370</a>
 </li>
 <li> Synthesizer: Synthetic Observables for Modern Astronomy <br>
@@ -33,32 +33,32 @@ October 2010 - July 2014 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 <li> Interpreting nebular emission lines in the high-redshift Universe <br />
 <i><b>Aswin P. Vijayan</b>, Robert M. Yates, Christopher C. Lovell, William J. Roper, Stephen M. Wilkins, Hiddo S. B. Algera, Shihong Liao, Paurush Punyasheel, Lucie E. Rowland, Louise T. C. Seeyave, <b>2025</b></i>, <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250720190V/abstract">arXiv:2507.20190</a>
 </li>
-<li> First Light And Reionisation Epoch Simulations (<span style="font-variant: small-caps;">Flares</span>) XVI: Size evolution of massive dusty galaxies at cosmic dawn from the ultraviolet to infrared <br>
+<li> First Light And Reionisation Epoch Simulations (<span class="sc">Flares</span>) XVI: Size evolution of massive dusty galaxies at cosmic dawn from the ultraviolet to infrared <br>
 <i>Paurush Punyasheel, <b>Aswin P. Vijayan</b>,  Thomas R. Greve, William J. Roper, Hiddo Algera, Steven Gillman, Bitten Gullberg, Dimitrios Irodotou, Christopher C. Lovell, Louise T. C. Seeyave, Peter A. Thomas, Stephen M. Wilkins, <b>2025</b></i>, <a href="https://ui.adsabs.harvard.edu/abs/2025A%26A...696A.234P/abstract">A&amp;A, 696, A234</a>
 </li>
-<li> First Light And Reionisation Epoch Simulations (<span style="font-variant: small-caps;">Flares</span>) XII: The consequences of star-dust geometry on galaxies in the EoR <br>
+<li> First Light And Reionisation Epoch Simulations (<span class="sc">Flares</span>) XII: The consequences of star-dust geometry on galaxies in the EoR <br>
 <i><b>Aswin P. Vijayan</b>, Peter A. Thomas, Christopher C. Lovell, Stephen M. Wilkins, Thomas R. Greve, Dimitrios Irodotou, William J. Roper, Louise T. C. Seeyave, <b>2023</b></i>, <a href="https://ui.adsabs.harvard.edu/abs/2023arXiv230304177V/abstract">arXiv:2303.04177</a>
 </li>
 <li> Sub-Millimetre Galaxies with Webb: Near-Infrared Counterparts and Multi-wavelength Morphology <br>
 <i>S. Gillman, B. Gullberg, G. Brammer, <b>A. Vijayan</b>, M. Lee, D. Blánquez, M. Brinch, T. Greve, I. Jermann, S. Jin, V. Kokorev, L. Liu, G. Magdis, F. Rizzo, F. Valentino, <b>2023</b></i>, <a href="https://ui.adsabs.harvard.edu/abs/2023arXiv230317246G/abstract">arXiv:2303.17246</a>
 </li>
-<li> First Light And Reionisation Epoch Simulations (<span style="font-variant: small-caps;">Flares</span>) V: The redshift frontier <br>
+<li> First Light And Reionisation Epoch Simulations (<span class="sc">Flares</span>) V: The redshift frontier <br>
 <i>Stephen M. Wilkins, <b>Aswin P. Vijayan</b>, Christopher C. Lovell, William J. Roper, Dimitrios Irodotou, Joseph Caruana, Louise T. C. Seeyave, Jussi K. Kuusisto, Peter A. Thomas, Shedeur A. K. Parris, <b>2022</b></i>, <a href="https://ui.adsabs.harvard.edu/abs/2022arXiv220409431W/abstract">arXiv:2204.09431</a>
 </li>
-<li> First Light And Reionisation Epoch Simulations (<span style="font-variant: small-caps;">Flares</span>) IV: The size evolution of galaxies at  z&geq;5 <br>
+<li> First Light And Reionisation Epoch Simulations (<span class="sc">Flares</span>) IV: The size evolution of galaxies at  z&geq;5 <br>
 <i>William J. Roper, Christopher C. Lovell, <b>Aswin P. Vijayan</b>, Madeline A. Marshall, Dimitrios Irodotou, Jussi K. Kuusisto, Peter A. Thomas, Stephen M. Wilkins, <b>2022</b></i>, <a href="https://ui.adsabs.harvard.edu/abs/2022arXiv220312627R/abstract">arXiv:2203.12627</a>
 </li>
-<li> First Light And Reionisation Epoch Simulations (<span style="font-variant: small-caps;">Flares</span>) III: The properties of massive dusty galaxies at cosmic dawn <br>
+<li> First Light And Reionisation Epoch Simulations (<span class="sc">Flares</span>) III: The properties of massive dusty galaxies at cosmic dawn <br>
 <i><b>Aswin P. Vijayan</b>, Stephen M. Wilkins, Christopher C. Lovell, Peter A. Thomas, Peter Camps, Maarten Baes, James Trayford, Jussi Kuusisto, William J. Roper, <b>2021</b></i>, <a href="https://ui.adsabs.harvard.edu/abs/2021arXiv210800830V/abstract">arXiv:2108.00830</a>
 </li>
-<li> First Light And Reionization Epoch Simulations (<span style="font-variant: small-caps;">Flares</span>) - II: The photometric properties of high-redshift galaxies<br>
+<li> First Light And Reionization Epoch Simulations (<span class="sc">Flares</span>) - II: The photometric properties of high-redshift galaxies<br>
 <i><b>Aswin P. Vijayan</b>, Christopher C. Lovell, Stephen M. Wilkins, Peter A. Thomas,  David J. Barnes, Dimitrios Irodotou, Jussi Kuusisto, Will Roper, <b>2021</b></i>, <a href="https://ui.adsabs.harvard.edu/abs/2021MNRAS.501.3289V/abstract">MNRAS, 501, 3289</a>
 </li>
-<li> First Light And Reionization Epoch Simulations (<span style="font-variant: small-caps;">Flares</span>) - I. Environmental dependence of high-redshift galaxy evolution <br>
+<li> First Light And Reionization Epoch Simulations (<span class="sc">Flares</span>) - I. Environmental dependence of high-redshift galaxy evolution <br>
 <i>Christopher C. Lovell, <b>Aswin P. Vijayan</b>, Peter A. Thomas, Stephen M. Wilkins, David J. Barnes, Dimitrios Irodotou, Will Roper, <b>2021</b></i>, <a href="https://ui.adsabs.harvard.edu/abs/2021MNRAS.500.2127L/abstract">MNRAS, 500, 2127</a>
 </li>
 <li>
-Detailed dust modelling in the <span style="font-variant: small-caps;">L-Galaxies</span> semi-analytic model of galaxy formation <br>
+Detailed dust modelling in the <span class="sc">L-Galaxies</span> semi-analytic model of galaxy formation <br>
 <i><b>Aswin P. Vijayan</b>, Scott J. Clay, Peter A. Thomas, Robert M. Yates, Stephen M. Wilkins, Bruno M. Henriques, <b>2019</b></i>, <a href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.489.4072V/abstract">MNRAS, 489, 4072</a>
 </li>
 </ol>  
