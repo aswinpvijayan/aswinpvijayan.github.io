@@ -1,15 +1,15 @@
-#- title: Email
-#  url: mailto://apavi@space.dtu.dk
-#  icon: fas fa-envelope
 - title: Orcid
   url: https://orcid.org/0000-0002-1905-4194
   icon: ai ai-orcid
+- title: SciX publications
+  url: https://scixplorer.org/public-libraries/nx11cjS2ROuxirheKfVAYw
+  icon: ai ai-ads
 - title: GitHub
   url: https://github.com/aswinpvijayan
   icon: fab fa-github
-- title: Twitter
-  url: https://twitter.com/aswinpvijayan
-  icon: fab fa-twitter
+- title: Bluesky
+  url: https://bsky.app/profile/aswinpvijayan.bsky.social
+  icon: fab fa-bluesky
 - title: Linkedin
   url: https://www.linkedin.com/in/aswin-p-vijayan/
   icon: fab fa-linkedin
