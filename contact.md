@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Contact Form
+title: Contact
 ---
 
-Please fill the following form with your message to contact me 
+Please fill in the following form to contact me.
 
 {::nomarkdown}
 <form action="https://formspree.io/f/mdoyqgav" method="POST">
@@ -16,11 +16,11 @@ Please fill the following form with your message to contact me
         <label class="label" for="_replyto"><span class="label-content">Your email</span></label>
     </fieldset>
     <fieldset class="field">
-        <textarea class="input" name="message" rows="1" placeholder="Message" required></textarea>
+        <textarea class="input" name="message" rows="6" placeholder="Message" required></textarea>
         <label class="label" for="message"><span class="label-content">Your message</span></label>
     </fieldset>
     <input class="hidden" type="text" name="_gotcha" style="display:none">
-    <input class="hidden" type="hidden" name="_subject" value="Message via http://domain.com">
+    <input class="hidden" type="hidden" name="_subject" value="Message via aswinpvijayan.github.io">
     <fieldset class="field">
         <input class="button submit" type="submit" value="Send">
     </fieldset>

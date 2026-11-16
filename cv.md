@@ -25,7 +25,7 @@ October 2010 - July 2014 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 <i>Paurush Punyasheel, <b>Aswin P. Vijayan</b>, William J. Roper, Thomas R. Greve, Hiddo Algera, Christopher C. Lovell, Steven Gillman, Bitten Gullberg, Shihong Liao, Robert M. Yates, Stephen M. Wilkins, <b>2026</b></i>, <a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260527370P/abstract">arXiv:2605.27370</a>
 </li>
 <li> Synthesizer: Synthetic Observables for Modern Astronomy <br>
-<i>Will Roper, Christopher Lovell, <b>Aswin Vijayan</b>, Stephen Wilkins, Hollis Akins, Sabrina Berger, Connor Sant Fournier, Thomas Harvey, Kartheik Iyer, Marco Leonardi, Sophie Newman, Borja Pautasso, Ashley Perry, Louise Seeyave, Laura Sommovigo, Paurush Punyasheel, Adrien Aufan Stoffels d'Hautefort, Alex Rawlings, <b>2026</b></i>, <a href="https://ui.adsabs.harvard.edu/abs/2026JOSS...11.9436R/abstract">arXiv:2506.15811</a>
+<i>Will Roper, Christopher Lovell, <b>Aswin Vijayan</b>, Stephen Wilkins, Hollis Akins, Sabrina Berger, Connor Sant Fournier, Thomas Harvey, Kartheik Iyer, Marco Leonardi, Sophie Newman, Borja Pautasso, Ashley Perry, Louise Seeyave, Laura Sommovigo, Paurush Punyasheel, Adrien Aufan Stoffels d'Hautefort, Alex Rawlings, <b>2026</b></i>, <a href="https://ui.adsabs.harvard.edu/abs/2026JOSS...11.9436R/abstract">JOSS, 11, 9436</a>
 </li>
 <li> Synthesizer: a Software Package for Synthetic Astronomical Observables<br />
 <i>Christopher C. Lovell<sup>*</sup>, William J. Roper<sup>*</sup>, <b>Aswin P. Vijayan</b><sup>*</sup>, Stephen M. Wilkins<sup>*</sup> (* indicates equal author contribution), Sophie Newman, Louise Seeyave <b>2025</b></i>, <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250803888L/abstract">arXiv:2508.03888</a>
@@ -34,7 +34,7 @@ October 2010 - July 2014 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 <i><b>Aswin P. Vijayan</b>, Robert M. Yates, Christopher C. Lovell, William J. Roper, Stephen M. Wilkins, Hiddo S. B. Algera, Shihong Liao, Paurush Punyasheel, Lucie E. Rowland, Louise T. C. Seeyave, <b>2025</b></i>, <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250720190V/abstract">arXiv:2507.20190</a>
 </li>
 <li> First Light And Reionisation Epoch Simulations (<span style="font-variant: small-caps;">Flares</span>) XVI: Size evolution of massive dusty galaxies at cosmic dawn from the ultraviolet to infrared <br>
-<i>Paurush Punyasheel, <b>Aswin P. Vijayan</b>,  Thomas R. Greve, William J. Roper, Hiddo Algera, Steven Gillman, Bitten Gullberg, Dimitrios Irodotou, Christopher C. Lovell, Louise T. C. Seeyave, Peter A. Thomas, Stephen M. Wilkins, <b>2025</b></i>, <a href="https://ui.adsabs.harvard.edu/abs/2025A%26A...696A.234P/abstract">arXiv:2408.11037</a>
+<i>Paurush Punyasheel, <b>Aswin P. Vijayan</b>,  Thomas R. Greve, William J. Roper, Hiddo Algera, Steven Gillman, Bitten Gullberg, Dimitrios Irodotou, Christopher C. Lovell, Louise T. C. Seeyave, Peter A. Thomas, Stephen M. Wilkins, <b>2025</b></i>, <a href="https://ui.adsabs.harvard.edu/abs/2025A%26A...696A.234P/abstract">A&amp;A, 696, A234</a>
 </li>
 <li> First Light And Reionisation Epoch Simulations (<span style="font-variant: small-caps;">Flares</span>) XII: The consequences of star-dust geometry on galaxies in the EoR <br>
 <i><b>Aswin P. Vijayan</b>, Peter A. Thomas, Christopher C. Lovell, Stephen M. Wilkins, Thomas R. Greve, Dimitrios Irodotou, William J. Roper, Louise T. C. Seeyave, <b>2023</b></i>, <a href="https://ui.adsabs.harvard.edu/abs/2023arXiv230304177V/abstract">arXiv:2303.04177</a>
@@ -52,14 +52,14 @@ October 2010 - July 2014 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 <i><b>Aswin P. Vijayan</b>, Stephen M. Wilkins, Christopher C. Lovell, Peter A. Thomas, Peter Camps, Maarten Baes, James Trayford, Jussi Kuusisto, William J. Roper, <b>2021</b></i>, <a href="https://ui.adsabs.harvard.edu/abs/2021arXiv210800830V/abstract">arXiv:2108.00830</a>
 </li>
 <li> First Light And Reionization Epoch Simulations (<span style="font-variant: small-caps;">Flares</span>) - II: The photometric properties of high-redshift galaxies<br>
-<i><b>Aswin P. Vijayan</b>, Christopher C. Lovell, Stephen M. Wilkins, Peter A. Thomas,  David J. Barnes, Dimitrios Irodotou, Jussi Kuusisto, Will Roper, <b>2021</b></i>, <a href="https://ui.adsabs.harvard.edu/abs/2021MNRAS.501.3289V/abstract">arXiv:2008.06057</a>
+<i><b>Aswin P. Vijayan</b>, Christopher C. Lovell, Stephen M. Wilkins, Peter A. Thomas,  David J. Barnes, Dimitrios Irodotou, Jussi Kuusisto, Will Roper, <b>2021</b></i>, <a href="https://ui.adsabs.harvard.edu/abs/2021MNRAS.501.3289V/abstract">MNRAS, 501, 3289</a>
 </li>
 <li> First Light And Reionization Epoch Simulations (<span style="font-variant: small-caps;">Flares</span>) - I. Environmental dependence of high-redshift galaxy evolution <br>
-<i>Christopher C. Lovell, <b>Aswin P. Vijayan</b>, Peter A. Thomas, Stephen M. Wilkins, David J. Barnes, Dimitrios Irodotou, Will Roper, <b>2021</b></i>, <a href="https://ui.adsabs.harvard.edu/abs/2021MNRAS.500.2127L/abstract">arXiv:2004.07283</a>
+<i>Christopher C. Lovell, <b>Aswin P. Vijayan</b>, Peter A. Thomas, Stephen M. Wilkins, David J. Barnes, Dimitrios Irodotou, Will Roper, <b>2021</b></i>, <a href="https://ui.adsabs.harvard.edu/abs/2021MNRAS.500.2127L/abstract">MNRAS, 500, 2127</a>
 </li>
 <li>
 Detailed dust modelling in the <span style="font-variant: small-caps;">L-Galaxies</span> semi-analytic model of galaxy formation <br>
-<i><b>Aswin P. Vijayan</b>, Scott J. Clay, Peter A. Thomas, Robert M. Yates, Stephen M. Wilkins, Bruno M. Henriques, <b>2019</b></i>, <a href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.489.4072V/abstract">arXiv:1904.02196</a>
+<i><b>Aswin P. Vijayan</b>, Scott J. Clay, Peter A. Thomas, Robert M. Yates, Stephen M. Wilkins, Bruno M. Henriques, <b>2019</b></i>, <a href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.489.4072V/abstract">MNRAS, 489, 4072</a>
 </li>
 </ol>  
 
@@ -78,9 +78,7 @@ Feb 2021 >> SOC, [CIDER: The Cold ISM During the Epoch of Reionisation](http://s
 
 Mar-Nov 2020 >> Work Placement, with Kenya Red Cross Society, Kenya.
 
-Oct-Apr 2019/20 >> Co-supervision of Hamish Garnett, Mphys student, University of Sussex, UK.
-
-Oct-Apr 2020/21 >> Co-supervision of Hamish Garnett, Mphys student, University of Sussex, UK.
+Oct 2019 - Apr 2021 >> Co-supervision of Hamish Garnett, MPhys student, University of Sussex, UK.
 
 2018-2020 >> Associate Tutor, MPS, University of Sussex.
 
