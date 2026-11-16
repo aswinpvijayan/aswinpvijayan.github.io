@@ -60,3 +60,35 @@ summary.summary-sub {
 .home-intro {
   margin-top: 5%;
 }
+
+// Date/description tables on the CV page
+.cv-table {
+  td {
+    padding: 0.25rem 0.5rem 0.25rem 0;
+    border-width: 0;
+    vertical-align: top;
+  }
+
+  .cv-date {
+    width: 11rem;
+    white-space: nowrap;
+  }
+
+  // Stack the date above the description on narrow screens
+  @media (max-width: $md-width) {
+    tr,
+    td {
+      display: block;
+    }
+
+    .cv-date {
+      width: auto;
+      padding-bottom: 0;
+      font-weight: bold;
+    }
+
+    tr {
+      margin-bottom: 0.75rem;
+    }
+  }
+}

@@ -4,14 +4,17 @@ title: CV
 ---
 
 <h2>Work Experience</h2>
-April 2024 - Present &nbsp;&nbsp;&nbsp;&nbsp;>>&nbsp;&nbsp;&nbsp;&nbsp; Research Fellow in Extragalactic Astronomy, University of Sussex, UK
-<br>
-October 2021 - February 2024 &nbsp;&nbsp;&nbsp;&nbsp;>>&nbsp;&nbsp;&nbsp;&nbsp; DAWN Postdoctoral Fellow, Cosmic Dawn Center at DTU, Denmark
+<table class="cv-table">
+<tr><td class="cv-date">Apr 2024 &ndash; Present</td><td>Research Fellow in Extragalactic Astronomy, University of Sussex, UK</td></tr>
+<tr><td class="cv-date">Oct 2021 &ndash; Feb 2024</td><td>DAWN Postdoctoral Fellow, Cosmic Dawn Center at DTU, Denmark</td></tr>
+</table>
 
 <h2>Education</h2>
-September 2017 - September 2021 &nbsp;&nbsp;&nbsp;&nbsp;>>&nbsp;&nbsp;&nbsp;&nbsp; PhD in Astronomy, University of Sussex, UK  
-September 2015 - July 2017 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;>>&nbsp;&nbsp;&nbsp;&nbsp; MSc. Research in Astronomy and Cosmology, Universiteit Leiden, The Netherlands  
-October 2010 - July 2014 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;>>&nbsp;&nbsp;&nbsp;&nbsp; Bachelor of Technology (B.Tech) in Engineering Physics, National Institute of Technology Calicut (NITC), Kerala, India
+<table class="cv-table">
+<tr><td class="cv-date">Sep 2017 &ndash; Sep 2021</td><td>PhD in Astronomy, University of Sussex, UK</td></tr>
+<tr><td class="cv-date">Sep 2015 &ndash; Jul 2017</td><td>MSc. Research in Astronomy and Cosmology, Universiteit Leiden, The Netherlands</td></tr>
+<tr><td class="cv-date">Oct 2010 &ndash; Jul 2014</td><td>Bachelor of Technology (B.Tech) in Engineering Physics, National Institute of Technology Calicut (NITC), Kerala, India</td></tr>
+</table>
 
 <h2>Selected Publications</h2>
 <ol reversed>
@@ -20,12 +23,6 @@ October 2010 - July 2014 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 </li>
 <li> The evolution of galaxy dust scaling relations in the <span class="sc">Colibre</span> simulations <br>
 <i><b>Aswin P. Vijayan</b>, James W. Trayford, Joop Schaye, Sylvia Ploeckinger, Andrea Gebek, Nick Andreadis, Maarten Baes, Alejandro Benítez-Llambay, Evgenii Chaikin, Carlos S. Frenk, Filip Huško, Robert J. McGibbon, Alexander J. Richings, Matthieu Schaller, <b>2026</b></i>, <a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260726058V/abstract">arXiv:2607.26058</a>
-</li>
-<li> First Light And Reionisation Epoch Simulations (<span class="sc">Flares</span>) XXII: UV-dust spatial offsets at the Epoch of Reionisation <br>
-<i>Paurush Punyasheel, <b>Aswin P. Vijayan</b>, William J. Roper, Thomas R. Greve, Hiddo Algera, Christopher C. Lovell, Steven Gillman, Bitten Gullberg, Shihong Liao, Robert M. Yates, Stephen M. Wilkins, <b>2026</b></i>, <a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260527370P/abstract">arXiv:2605.27370</a>
-</li>
-<li> Synthesizer: Synthetic Observables for Modern Astronomy <br>
-<i>Will Roper, Christopher Lovell, <b>Aswin Vijayan</b>, Stephen Wilkins, Hollis Akins, Sabrina Berger, Connor Sant Fournier, Thomas Harvey, Kartheik Iyer, Marco Leonardi, Sophie Newman, Borja Pautasso, Ashley Perry, Louise Seeyave, Laura Sommovigo, Paurush Punyasheel, Adrien Aufan Stoffels d'Hautefort, Alex Rawlings, <b>2026</b></i>, <a href="https://ui.adsabs.harvard.edu/abs/2026JOSS...11.9436R/abstract">JOSS, 11, 9436</a>
 </li>
 <li> Synthesizer: a Software Package for Synthetic Astronomical Observables<br />
 <i>Christopher C. Lovell<sup>*</sup>, William J. Roper<sup>*</sup>, <b>Aswin P. Vijayan</b><sup>*</sup>, Stephen M. Wilkins<sup>*</sup> (* indicates equal author contribution), Sophie Newman, Louise Seeyave <b>2025</b></i>, <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250803888L/abstract">arXiv:2508.03888</a>
@@ -39,23 +36,11 @@ October 2010 - July 2014 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 <li> First Light And Reionisation Epoch Simulations (<span class="sc">Flares</span>) XII: The consequences of star-dust geometry on galaxies in the EoR <br>
 <i><b>Aswin P. Vijayan</b>, Peter A. Thomas, Christopher C. Lovell, Stephen M. Wilkins, Thomas R. Greve, Dimitrios Irodotou, William J. Roper, Louise T. C. Seeyave, <b>2023</b></i>, <a href="https://ui.adsabs.harvard.edu/abs/2023arXiv230304177V/abstract">arXiv:2303.04177</a>
 </li>
-<li> Sub-Millimetre Galaxies with Webb: Near-Infrared Counterparts and Multi-wavelength Morphology <br>
-<i>S. Gillman, B. Gullberg, G. Brammer, <b>A. Vijayan</b>, M. Lee, D. Blánquez, M. Brinch, T. Greve, I. Jermann, S. Jin, V. Kokorev, L. Liu, G. Magdis, F. Rizzo, F. Valentino, <b>2023</b></i>, <a href="https://ui.adsabs.harvard.edu/abs/2023arXiv230317246G/abstract">arXiv:2303.17246</a>
-</li>
-<li> First Light And Reionisation Epoch Simulations (<span class="sc">Flares</span>) V: The redshift frontier <br>
-<i>Stephen M. Wilkins, <b>Aswin P. Vijayan</b>, Christopher C. Lovell, William J. Roper, Dimitrios Irodotou, Joseph Caruana, Louise T. C. Seeyave, Jussi K. Kuusisto, Peter A. Thomas, Shedeur A. K. Parris, <b>2022</b></i>, <a href="https://ui.adsabs.harvard.edu/abs/2022arXiv220409431W/abstract">arXiv:2204.09431</a>
-</li>
-<li> First Light And Reionisation Epoch Simulations (<span class="sc">Flares</span>) IV: The size evolution of galaxies at  z&geq;5 <br>
-<i>William J. Roper, Christopher C. Lovell, <b>Aswin P. Vijayan</b>, Madeline A. Marshall, Dimitrios Irodotou, Jussi K. Kuusisto, Peter A. Thomas, Stephen M. Wilkins, <b>2022</b></i>, <a href="https://ui.adsabs.harvard.edu/abs/2022arXiv220312627R/abstract">arXiv:2203.12627</a>
-</li>
 <li> First Light And Reionisation Epoch Simulations (<span class="sc">Flares</span>) III: The properties of massive dusty galaxies at cosmic dawn <br>
 <i><b>Aswin P. Vijayan</b>, Stephen M. Wilkins, Christopher C. Lovell, Peter A. Thomas, Peter Camps, Maarten Baes, James Trayford, Jussi Kuusisto, William J. Roper, <b>2021</b></i>, <a href="https://ui.adsabs.harvard.edu/abs/2021arXiv210800830V/abstract">arXiv:2108.00830</a>
 </li>
 <li> First Light And Reionization Epoch Simulations (<span class="sc">Flares</span>) - II: The photometric properties of high-redshift galaxies<br>
 <i><b>Aswin P. Vijayan</b>, Christopher C. Lovell, Stephen M. Wilkins, Peter A. Thomas,  David J. Barnes, Dimitrios Irodotou, Jussi Kuusisto, Will Roper, <b>2021</b></i>, <a href="https://ui.adsabs.harvard.edu/abs/2021MNRAS.501.3289V/abstract">MNRAS, 501, 3289</a>
-</li>
-<li> First Light And Reionization Epoch Simulations (<span class="sc">Flares</span>) - I. Environmental dependence of high-redshift galaxy evolution <br>
-<i>Christopher C. Lovell, <b>Aswin P. Vijayan</b>, Peter A. Thomas, Stephen M. Wilkins, David J. Barnes, Dimitrios Irodotou, Will Roper, <b>2021</b></i>, <a href="https://ui.adsabs.harvard.edu/abs/2021MNRAS.500.2127L/abstract">MNRAS, 500, 2127</a>
 </li>
 <li>
 Detailed dust modelling in the <span class="sc">L-Galaxies</span> semi-analytic model of galaxy formation <br>
@@ -66,21 +51,18 @@ Detailed dust modelling in the <span class="sc">L-Galaxies</span> semi-analytic 
 You can find a full list of my publications [here](https://ui.adsabs.harvard.edu/public-libraries/nx11cjS2ROuxirheKfVAYw)
 
 <h2>Teaching & Other Work Experience</h2>
-Jan 2025 - May 2025 >> Lecturer for the course Astrophysical Processes, University of Sussex, UK.
-
-Sep 2023 - May 2024 >> Supervision of Paurush Punyasheel, MSc student, BITS-Pilani, Goa, India.
-
-Feb - June 2022 >> Co-supervision of S&oslash;ren Staal, BSc student, DTU-Space, Denmark.
+<table class="cv-table">
+<tr><td class="cv-date">Jan 2025 &ndash; May 2025</td><td>Lecturer for the course Astrophysical Processes, University of Sussex, UK</td></tr>
+<tr><td class="cv-date">Sep 2023 &ndash; May 2024</td><td>Supervision of Paurush Punyasheel, MSc student, BITS-Pilani, Goa, India</td></tr>
+<tr><td class="cv-date">Feb 2022 &ndash; Jun 2022</td><td>Co-supervision of S&oslash;ren Staal, BSc student, DTU-Space, Denmark</td></tr>
+<tr><td class="cv-date">Mar 2020 &ndash; Nov 2020</td><td>Work Placement, with Kenya Red Cross Society, Kenya</td></tr>
+<tr><td class="cv-date">Oct 2019 &ndash; Apr 2021</td><td>Co-supervision of Hamish Garnett, MPhys student, University of Sussex, UK</td></tr>
+<tr><td class="cv-date">2018 &ndash; 2020</td><td>Associate Tutor, MPS, University of Sussex</td></tr>
+</table>
 
 <!--Oct 2021 >> SOC, [Models and Simulations of High-Redshift Galaxies](http://sazerac-conference.org/SIPS2122/1.html) - Sazerac Sip.
 
 Feb 2021 >> SOC, [CIDER: The Cold ISM During the Epoch of Reionisation](http://sazerac-conference.org/SIPS2021/4.html) - Sazerac Sip.-->
-
-Mar-Nov 2020 >> Work Placement, with Kenya Red Cross Society, Kenya.
-
-Oct 2019 - Apr 2021 >> Co-supervision of Hamish Garnett, MPhys student, University of Sussex, UK.
-
-2018-2020 >> Associate Tutor, MPS, University of Sussex.
 
 <br>
 You can also find a detailed pdf version of my [CV](/images/cv.pdf)
