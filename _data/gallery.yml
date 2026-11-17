@@ -1,0 +1,51 @@
+# Photos for the Conferences & Outreach gallery, newest first.
+#
+#   image:    full-size photo shown in the full-screen view
+#   thumb:    small version shown in the grid (make one with:
+#             sips -s format jpeg -s formatOptions 80 -Z 800 images/X --out images/thumbs/X.jpg)
+#   summary:  short text shown when hovering over the thumbnail
+#   caption:  full description shown in the full-screen view (HTML allowed)
+#   alt:      description of the photo for screen readers
+#   position: optional, which part of the photo to keep when cropping the
+#             thumbnail to the grid shape (CSS object-position, default "center")
+
+- image: /images/kerala_workshop_2026.jpeg
+  thumb: /images/thumbs/kerala_workshop_2026.jpg
+  summary: High-redshift workshop in Kerala, India, January 2026
+  caption: >-
+    Group picture from an astronomy conference/workshop that I organised in Kerala, India in January 2026.
+    I brought together a small group of astronomers working in the high-redshift Universe interested in
+    synthetic observations and using them to understand galaxy formation and evolution. You can see a
+    beautiful tea garden in Munnar in the background.
+  alt: >-
+    Group photo of around 35 workshop participants standing on a dirt path, with tea plantations and
+    misty forested hills behind them.
+
+- image: /images/dawnsummit23.jpeg
+  thumb: /images/thumbs/dawnsummit23.jpg
+  position: center 85%
+  summary: Review talk at Dawn Summit 2023
+  caption: >-
+    Review talk at <a href="https://cosmicdawn.dk/meetings-and-workshops/dawn-summit-2023/">Dawn Summit 2023</a>
+    on first stars and galaxies.
+  alt: >-
+    Aswin giving a talk at a lecture-theatre podium, below a projected slide asking 'How do we study these
+    early systems?' with a meme of theoretical models and observations clasping hands over FLARES.
+
+- image: /images/AOT.png
+  thumb: /images/thumbs/AOT.jpg
+  summary: Astronomy on Tap, Copenhagen, February 2022
+  caption: >-
+    Speaking to the public at Astronomy on Tap, Copenhagen on building Universes within computers.
+  alt: >-
+    Aswin speaking into a microphone in a dimly lit bar, next to a projected title slide reading
+    'Universes within computers', Astronomy on Tap, February 2022.
+
+- image: /images/bluedot2019.jpg
+  thumb: /images/thumbs/bluedot2019.jpg
+  summary: JWST stand at Bluedot festival, 2019
+  caption: >-
+    At the JWST stand at Bluedot 2019 festival.
+  alt: >-
+    A group of volunteers in matching black T-shirts posing at the James Webb Space Telescope stand at
+    Bluedot festival, with a model rocket and a JWST banner.

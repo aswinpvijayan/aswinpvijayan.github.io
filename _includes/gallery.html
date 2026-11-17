@@ -1,0 +1,52 @@
+<div class="gallery">
+{%- for item in site.data.gallery %}
+  <figure class="gallery-item">
+    <button type="button" class="gallery-thumb" data-index="{{ forloop.index0 }}" data-full="{{ item.image | relative_url }}" aria-label="Open photo: {{ item.summary | escape }}">
+      <img src="{{ item.thumb | default: item.image | relative_url }}" alt="{{ item.alt | escape }}" loading="lazy"{% if item.position %} style="object-position: {{ item.position }};"{% endif %}>
+      <span class="gallery-summary">{{ item.summary }}</span>
+    </button>
+    <div class="gallery-caption" hidden>{{ item.caption }}</div>
+  </figure>
+{%- endfor %}
+</div>
+<dialog class="lightbox" aria-label="Photo viewer">
+  <button type="button" class="lightbox-close" aria-label="Close">&times;</button>
+  <button type="button" class="lightbox-prev" aria-label="Previous photo">&#8249;</button>
+  <figure class="lightbox-figure">
+    <img class="lightbox-image" src="" alt="">
+    <figcaption class="lightbox-caption"></figcaption>
+  </figure>
+  <button type="button" class="lightbox-next" aria-label="Next photo">&#8250;</button>
+</dialog>
+<script>
+(function () {
+  var thumbs = Array.prototype.slice.call(document.querySelectorAll('.gallery-thumb'));
+  var box = document.querySelector('.lightbox');
+  if (!box || !thumbs.length || typeof box.showModal !== 'function') return;
+  var img = box.querySelector('.lightbox-image');
+  var cap = box.querySelector('.lightbox-caption');
+  var current = 0;
+
+  function show(i) {
+    current = (i + thumbs.length) % thumbs.length;
+    var t = thumbs[current];
+    img.src = t.dataset.full;
+    img.alt = t.querySelector('img').alt;
+    cap.innerHTML = t.parentNode.querySelector('.gallery-caption').innerHTML;
+  }
+
+  thumbs.forEach(function (t, i) {
+    t.addEventListener('click', function () { show(i); box.showModal(); });
+  });
+  box.querySelector('.lightbox-close').addEventListener('click', function () { box.close(); });
+  box.querySelector('.lightbox-prev').addEventListener('click', function () { show(current - 1); });
+  box.querySelector('.lightbox-next').addEventListener('click', function () { show(current + 1); });
+  box.addEventListener('keydown', function (e) {
+    if (e.key === 'ArrowLeft') show(current - 1);
+    if (e.key === 'ArrowRight') show(current + 1);
+  });
+  // Clicking the dark area around the photo closes the viewer
+  box.addEventListener('click', function (e) { if (e.target === box) box.close(); });
+  box.addEventListener('close', function () { thumbs[current].focus(); img.src = ''; });
+})();
+</script>
